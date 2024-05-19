@@ -1,1 +1,1 @@
-# capstone-project-html-only-udemy
+# This capstone project is a resume
